@@ -103,11 +103,11 @@ img{
     background-position: center;
 }
 .grafico-1{
-    background-image: url('/img/grafico1.jpg');
+    background-image: url('../img/grafico1.jpg');
     grid-row: 2 / 3;
 }
 .grafico-2{
-    background-image: url('/img/grafico2.jpg');
+    background-image: url('../img/grafico2.jpg');
     grid-row: 8 / 9;
 }
 @media (min-width: 768px){
